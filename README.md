@@ -12,6 +12,7 @@ Then a sentence about what you've achieved. And then a sentence about what you'r
 
 #### Leadership - President of Student Union
 
+As president of the student union, I was responsible for 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
@@ -71,9 +72,9 @@ Experience
 * Architectural Designer 
 * Bell Associate (September 2008 to March 2009)   
 * Architecural Designer
-* United Colors of Benetton (August 2009 - August 2010)
-* Won a scholarship for the Fashion + Tech division of UCB
-* Won Startup Weekend Silicon Valley (January 2012)
+* Scholarshp winner for Fashion + Tech division -- United Colors of Benetton (August 2009 - August 2010)
+* Startup Weekend Winner -- Silicon Valley (January 2012)
+* Webdesign contest Winner -- (May 2017)
 
 Hobbies
 
