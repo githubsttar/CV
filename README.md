@@ -12,7 +12,7 @@ Then a sentence about what you've achieved. And then a sentence about what you'r
 
 #### Leadership - President of Student Union
 
-As president of the student union, I was responsible for 
+As president of the student union, I chaired h
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
@@ -75,7 +75,6 @@ Experience
 * Founder of Preshopp (January 2011 - February 2014)
 * Freelancing + Travelling (2014)
 * Full time student (September 2015 - July 2018)
-* Web design contest Winner -- (May 2017)
 
 Hobbies
 
