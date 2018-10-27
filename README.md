@@ -16,18 +16,8 @@ As president of the student union, I was the head liasion between the staff and 
 
 Product Conception and Managment
 
-I find that when it comes to releasing a product, the agile method holds many advantages, primarily for the fact that it allows you to quickly test your initial idea, and receive that all important feedback. I employed this lean method of product development during my time running my startup and I found that it allowed my potential userbase the opportunity to contribute to my product, effectively becoming an extension of my team. As a bootstrapping entreprenur, I had to be incredibly creative in the ways I ran my company and one of the key strategies that I developed early on was the idea of building a solid ecosystem of users and developers. Firstly, i evaluated the requirement of each task, secondly I distributed each section to the relevant freelancer and then I showcased the prototype to a selection of users.
+I find that when it comes to releasing a product, it isn't enough to assume that if you build it, they will come. It's important to spend time developing a process which yields value early on. I personally find that the agile method holds many advantages, primarily for the fact that it allows you to quickly test your initial idea, and receive that all important feedback. I employed this lean method of product development during my time running my startup and I found that it allowed my potential userbase the opportunity to contribute to my product, effectively becoming an extension of my team. As a bootstrapping entreprenur, I had to be incredibly creative in the ways I ran my company and one of the key strategies that I developed early on was the idea of building a solid ecosystem of users and developers. Firstly, I evaluated the requirement of each task, secondly I distributed each section to the relevant freelancer and thirdly I showcased the prototype to a selection of users, got their feedback and then repeated the cycle. As well as being a very cost effective method of R&D, I found that this allowed my team to focus on the features deemed important by the users and since my users were bloggers and influencers, their excitement about the product gave me some much needed publicity. 
 
-I have a natural ability for accomplishing tasks and delivering on time. Firstly, I establish the 
-
-As an innate problem solver, I find that the more complex challenges, engages me the most. Running my startup gave me the advantage  
-I analyse the requirement needed to reach each milestone and strategise on the best route for achivement. During my time as a tech startup founder, I evaluated the requirement of each task, mapped the possible route and distributed each section to the relevant developers, designers and an intern to 
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
 
 #### You might also like to know...
 
