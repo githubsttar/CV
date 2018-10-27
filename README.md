@@ -12,12 +12,7 @@ I found it especially liberating to be able to take a project from conception to
 
 #### Leadership - President of Student Union
 
-As president of the student union, I was the head liasion between the staff and student body. Incidentally, my presidentship began at a very turmoultous time in the life of the college, as the new constitution was being implemented to replace the old system. I led my team, through this difficult period and was able to establish a more solid foundation and governance of the student union. In addition to chairing bi-weekly meetings between the principal and my fellow students, I was in charge of communicating the voices and needs of the students to the appropriate members of staff. 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+As president of the student union, I was the head liasion between the staff and student body. Incidentally, my presidentship began at a very turmoultous time in the life of the college, as the new constitution was being implemented to replace the old system. I led my team, through this difficult period and was able to establish a more solid foundation and governance of the student union. In addition to chairing bi-weekly meetings between the principal and my fellow students, I was in charge of communicating the voices and needs of the students to the appropriate members of staff. I began my presidentship with a disengaged and discouraged team who had lost their passion for their position, but through hard work and good leadership skills, I succeded at transforming the student union into a thriving team of enaged and passionate members -- all the while maintaining a 1st / upper 2:1 grade point average. I also learned through this whole process, that I am a people-centered leader. 
 
 #### Product Conception + Delivery - Preshopp
 
