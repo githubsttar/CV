@@ -73,5 +73,5 @@ University of Greenwich (September 2003 to December 2007)
 * Drawing
 * Watercolour Painting
 * Blogging
-* Crochet
+* Crocheting
 * Baking
