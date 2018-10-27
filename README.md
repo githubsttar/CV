@@ -23,6 +23,7 @@ I find that when it comes to releasing a product, it isn't enough to assume that
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
+- I am in the midst of starting a tech blog for women entrepreneurs...
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
