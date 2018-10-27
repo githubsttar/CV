@@ -4,7 +4,7 @@ Who I Am
 
 A happy go-lucky creative spirit who is amazingly curious. In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming an architect (and against the advice of my dean of school), in favour of pursing my dreams in tech. I packed my bags and headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup Weekend competition and won first prize. This gave me a great platform and afforded me the unique opportunity to meet with some of the Valley's most notorious (sorry! no name dropping) VCS and tech founders.
 
-Determined to capitalise on the small buzz generating around my concept, I made yet another giant leap -- to extend my holiday from 2 weeks to 3 months and launched my startup in San Francisco. Undeterred by the fact that I was a tech startup founder who couldn't write a line of code, I decided to embark upon learning to code, in addition to the freelance developers that I was working with, I began to teach myself python and NLP.
+Determined to capitalise on the small buzz which was generating around my concept, I made yet another giant leap -- to extend my holiday from 2 weeks to 3 months and launched my startup in San Francisco. During my time running my startup, it quickly became clear that my iniability to code would inpact the delivery of my product, therefore to mitigate against such circumstance and risk disappointing my growing potential userbase, I embarked upon learning how to code.
 
 Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
