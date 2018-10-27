@@ -14,9 +14,14 @@ Leadership
 
 As president of the student union, I was the head liasion between the staff and student body. Incidentally, my presidentship began at a very turmoultous time in the life of the college, as the new constitution was being implemented to replace the old system. I led my team, through this difficult period and was able to establish a more solid foundation and governance of the student union. In addition to chairing bi-weekly meetings between the principal and my fellow students, I was in charge of communicating the voices and needs of the students to the appropriate members of staff. I began my presidentship with a disengaged and discouraged team who had lost their passion for their position, but through hard work and good leadership skills, I succeded at transforming the student union into a thriving team of enaged and passionate members -- all the while maintaining a 1st / upper 2:1 grade point average. I also learned through this whole process, that I am a people-centered leader. 
 
-Product Conception + Delivery
+Product Conception and Managment
 
-I have a natural dexterity for accomplishing tasks and delivering on time. I analyse the requirement needed to reach each milestone and strategise on the best route for achivement. During my time as a tech startup founder, I broke down th
+I find that when it comes to releasing a product, the agile method holds many advantages, primarily for the fact that it allows you to quickly test your initial idea, and receive that all important feedback. I employed this lean method of product development during my time running my startup and I found that it allowed my potential userbase the opportunity to contribute to my product, effectively becoming an extension of my team. As a bootstrapping entreprenur, I had to be incredibly creative in the ways I ran my company and one of the key strategies that I developed early on was the idea of building a solid ecosystem of users and developers. Firstly, i evaluated the requirement of each task, secondly I distributed each section to the relevant freelancer and then I showcased the prototype to a selection of users.
+
+I have a natural ability for accomplishing tasks and delivering on time. Firstly, I establish the 
+
+As an innate problem solver, I find that the more complex challenges, engages me the most. Running my startup gave me the advantage  
+I analyse the requirement needed to reach each milestone and strategise on the best route for achivement. During my time as a tech startup founder, I evaluated the requirement of each task, mapped the possible route and distributed each section to the relevant developers, designers and an intern to 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -24,7 +29,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Spatial Designer - Architecture
+#### You might also like to know...
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -33,7 +38,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-Because I love to learn...
+### Because I love to learn...
 
 Makers Academy (start_date to end_date)
 
@@ -63,7 +68,7 @@ University of Greenwich (September 2003 to December 2007)
 * Architecture
 * Part I
 
-Peek into my past...
+### Peek into my past...
 
 * Architectural Designer -- Paul Davies + Partners (September 2007 to June 2008)
 * Architectural Designer -- Bell Associate (September 2008 to March 2009)   
@@ -73,7 +78,7 @@ Peek into my past...
 * Freelancing + Travelling (2014)
 * Full time student (September 2015 - July 2018)
 
-When I am not coding, you are likely to find me...
+### When I am not coding, you are likely to find me...
 
 * Drawing
 * Watercolour Painting
