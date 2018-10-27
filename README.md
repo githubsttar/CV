@@ -1,6 +1,10 @@
-Ijeoma Nelson
+Pleasure to meet you...
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Who I Am
+
+A happy go-lucky creative spirit who is amazingly curious. In January 2012, just a couple of days past New Year's Day, I packed up my bag and headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup Weekend competition and won first prize for my business idea!
+
+Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
