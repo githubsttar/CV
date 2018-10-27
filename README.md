@@ -6,13 +6,7 @@ A happy go-lucky creative spirit who is amazingly curious. In 2012, being ever s
 
 Determined to capitalise on the small buzz which was generating around my concept, I made yet another giant leap -- to extend my holiday from 2 weeks to 3 months and launched my startup in San Francisco. At the time of running my startup, it quickly became clear that my inability to code would impact the delivery of my product, therefore to mitigate against such an event, I embarked upon learning how to code. I learned enough of Python to do some damage and by damage I mean the ability to quickly release a VMVP -- Very Minimum Viable Product. The product -- a style aggregator -- proved very popular amongst fashion bloggers and once again generated some more buzz, but this time on social media. From this moment onwards, I became incredibly fascinated with the idea of building my own products.
 
-I found it especially liberating to be able to take a project from conception to realisation and this feeling of liberation fueled my curiosity for web technologies. As an insatiable learner, I self-taught myself HTML, CSS, Bootstrap and Wordpress Styling and pivoted my startup to a career in tech.
-
-
-, I even won my first web design and devlopment contest on Freelancer.
-
-and therefore became even more inspired and encoraged to learn more web technologies and build more awesome stuff. I'm a creative thinker who loves problem solving 
-Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I found it especially liberating to be able to take a project from conception to realisation and this feeling of liberation fueled my curiosity for web technologies. As an insatiable learner, I taught myself HTML, CSS, Bootstrap and Wordpress Styling and therby pivoting my startup to a career in tech, I even won the first web design and development contest I entered on Freelancer. I built a fully responsive website completely from scratch for the German coutrier, Sweetbelly-de. Both teachers and colleagues alike often commend the uniqueness of my creative mind, often remarking on how they like 'the way I think.' Software engineering perfectly compliments my creative and artistic talents and for this reason, I am searching for environments where creativity and experimentation is encouraged.
 
 ## Skills
 
