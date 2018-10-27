@@ -27,9 +27,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+Education
 
-#### Makers Academy (start_date to end_date)
+Makers Academy (start_date to end_date)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -51,9 +51,18 @@ University of Manchester (Spurgeon's College) September 2015 to July 2018
 * 2:1
 * President of the Student Union
 
-## Experience
+Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Paul Davies + Partners (September 2007 to June 2008)    
+Architectural Designer 
+Bell Associate (September 2008 to March 2009)   
+Architecural Designer
+United Colors of Benetton (August 2009 - August 2010)
+Won a scholarship for the Fashion + Tech division of UCB
+
+Hobbies
+Drawing
+Watercolour Painting
+Blogging
+Crochet
+Baking
