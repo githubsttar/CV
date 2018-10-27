@@ -2,7 +2,7 @@ Pleasure to meet you...
 
 Who I Am
 
-A happy go-lucky creative spirit who is amazingly curious. In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming an architect, in favour of pursing my dreams in tech. I packed my bags and headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup Weekend competition and won first prize for my business idea.
+A happy go-lucky creative spirit who is amazingly curious. In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming an architect, in favour of pursing my dreams in tech. I packed my bags and headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup Weekend competition and won first prize. This gave me a great platform and afforded me the unique opportunity to meet with some of the Valley's most notorious (sorry! no name dropping) VCS and tech founders.
 
 Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
