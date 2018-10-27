@@ -53,9 +53,9 @@ Exhibited my student work at the London Design Festival
 
 University of Manchester (Spurgeon's College) September 2015 to July 2018
 
-BA Theology
-2:1
-President of the Student Union
+* BA Theology
+* 2:1
+* President of the Student Union
 
 Experience
 
