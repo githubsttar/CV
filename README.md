@@ -4,7 +4,7 @@ Who I Am
 
 A happy go-lucky creative spirit who is amazingly curious. In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming an architect (and against the advice of my dean of school), in favour of pursing my dreams in tech. I packed my bags and headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup Weekend competition and won first prize. This gave me a great platform and afforded me the unique opportunity to meet with some of the Valley's most notorious (sorry! no name dropping) VCS and tech founders.
 
-Determined to capitalise on the small buzz which was generating around my concept, I made yet another giant leap -- to extend my holiday from 2 weeks to 3 months and launched my startup in San Francisco. During my time running my startup, it quickly became clear that my iniability to code would inpact the delivery of my product, therefore to mitigate against such circumstance and risk disappointing my growing potential userbase, I embarked upon learning how to code.
+Determined to capitalise on the small buzz which was generating around my concept, I made yet another giant leap -- to extend my holiday from 2 weeks to 3 months and launched my startup in San Francisco. During my time running my startup, it quickly became clear that my inability to code would impact the delivery of my product, therefore to mitigate against such an event I embarked upon learning how to code.
 
 Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -40,13 +40,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+University of Greenwich (September 2010 to December 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+* Diploma of Architecure
+* Exhibited my student work at the London Design Festival
 
-#### Any other qualifications
+University of Manchester (Spurgeon's College) September 2015 to July 2018
+
+* BA Theology
+* 2:1
+* President of the Student Union
 
 ## Experience
 
