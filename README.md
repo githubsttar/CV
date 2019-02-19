@@ -21,12 +21,6 @@ As president of the student union, I was the head liasion between the staff and 
 I find that when it comes to releasing a product, it isn't enough to assume that if you build it, they will come. It's important to spend time developing a process which yields value early on. I personally find that the agile method holds many advantages, primarily for the fact that it allows you to quickly test your initial idea, and receive that all important feedback. I employed this lean method of product development during my time running my startup and I found that it allowed my potential userbase the opportunity to contribute to my product, effectively becoming an extension of my team. As a bootstrapping entreprenur, I had to be incredibly creative in the ways I ran my company and one of the key strategies that I developed early on was the idea of building a solid ecosystem of users and developers. Firstly, I evaluated the requirement of each task, secondly I distributed each section to the relevant person and thirdly I showcased the prototype to a selection of users, got their feedback and then repeated the cycle. As well as being a very cost effective method of R&D, I found that this allowed my team to focus on the features deemed important by the users and since my users were bloggers and influencers, their excitement about the product gave me some much needed publicity. 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 ## You might also like to know...
 
 - I am in the midst of starting a tech blog for women entrepreneurs...
