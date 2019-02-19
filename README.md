@@ -10,13 +10,6 @@ Determined to capitalise on the small buzz which was generating around my concep
 
 I found it especially liberating to be able to take a project from conception to realisation and this feeling of liberation fueled my curiosity for web technologies. As an insatiable learner, I taught myself HTML, CSS, Bootstrap and Wordpress Styling and thereby pivoting my startup to a career in tech, even to the extent of winning the first web design and development contest I entered. I built a fully responsive website completely from scratch for the German coutrier, Sweetbelly-de. Both teachers and colleagues alike often commend the uniqueness of my creative mind, often remarking on how they like 'the way I think.' Software engineering perfectly compliments my creative and artistic talents and for this reason, I am searching for a place where creativity and experimentation is encouraged -- an environment that sees its value in tomorrow's world.
 
-
-| ------- |
-|         |
-|         |
-|         |
-|         |
-
 # Some of the things I'm good at...
 
 ## Leadership
