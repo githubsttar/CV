@@ -19,20 +19,13 @@ Determined to capitalise on the buzz which was generating around my concept, I m
 
 ## Leadership
 
-As president of the student union, I was the head liasion between the staff and student body. Incidentally, my presidentship began at a very turmoultous time in the life of the college, as the new constitution was being implemented to replace the old system. I led my team, through this difficult period and was able to establish a more solid foundation and governance of the student union. In addition to chairing bi-weekly meetings between the principal and my fellow students, I was in charge of communicating the voices and needs of the students to the appropriate members of staff. I began my presidentship with a disengaged and discouraged team who had lost their passion for their position, but through hard work and good leadership skills, I succeded at transforming the student union into a thriving team of enaged and passionate members -- all the while maintaining a 1st / upper 2:1 grade point average. I also learned through this whole process, that I am a people-centered leader. 
+As president of the student union, I was the head liaison between the staff and student body. Incidentally, my presidentship began at a very tumultuous time in the life of the college, as the new constitution was being implemented to replace the old system. I led my team, through this difficult period and was able to establish a more solid foundation and governance of the student union. In addition to chairing bi-weekly meetings between the principal and my fellow students, I was in charge of communicating the voices and needs of the students to the appropriate members of staff. I began my presidentship with a disengaged and discouraged team who had lost their passion for their position, but through hard work and good leadership skills, I succeeded at transforming the student union into a thriving team of engaged and passionate members -- all the while maintaining a 1st / upper 2:1-grade point average. I also learned through this whole process, that I am a people-centred leader.
 
-## Product Conception and Management
+## Communication:
+During the time I was running my tech startup, I quickly became very familiar with some of the most notorious fashion bloggers and influencers around the world. Though unknown to me at the time that my development process was very agile, my excellent communication skills with the online community of fashion influencers, allowed me to implement the right features in my application whilst getting 'free publicity,' each time the bloggers wrote an article about me and what I was doing. http://www.fashionistasmile.com/2013/06/preshopp-can-you-imagine-world-without.html
 
-I find that when it comes to releasing a product, it isn't enough to assume that if you build it, they will come. It's important to spend time developing a process which yields value early on. I personally find that the agile method holds many advantages, primarily for the fact that it allows you to quickly test your initial idea, and receive that all important feedback. I employed this lean method of product development during my time running my startup and I found that it allowed my potential userbase the opportunity to contribute to my product, effectively becoming an extension of my team. As a bootstrapping entreprenur, I had to be incredibly creative in the ways I ran my company and one of the key strategies that I developed early on was the idea of building a solid ecosystem of users and developers. Firstly, I evaluated the requirement of each task, secondly I distributed each section to the relevant person and thirdly I showcased the prototype to a selection of users, got their feedback and then repeated the cycle. As well as being a very cost effective method of R&D, I found that this allowed my team to focus on the features deemed important by the users and since my users were bloggers and influencers, their excitement about the product gave me some much needed publicity. 
-
-
-## You might also like to know...
-
-- I am in the midst of starting a tech blog for women entrepreneurs...
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+## Fast Learner:
+Having taught myself enough Python and Beautiful Soup to scrape websites and build my MVP, I then proceeded to self learn HTML, CSS and Bootstrap. In fact, the summer of 2016 was spent getting much acquainted with the exercises of Codecademy and the tutorials of Udemy. By September of that same year, I was very much fluent in those technologies and could confidently enter client competitions on Freelancer. I am proud to say that I won the very first competition I entered on Freelancer! My client Sweetbelly is a German Couterier who wanted a classy and minimal website that would showcase their very expensive creations. I created the site from scratch, using HTML, CSS, Bootstrap and PHP for the contact form.
 
 ## Because I love to learn...
 
