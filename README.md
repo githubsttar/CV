@@ -38,7 +38,7 @@ As president of the student union, I was the head liaison between the staff and 
 ## Communication
 During the time I was running my tech startup, I quickly became very familiar with some of the most notorious fashion bloggers and influencers around the world. Though unknown to me at the time that my development process was very agile, my excellent communication skills with the online community of fashion influencers, allowed me to implement the right features in my application whilst getting 'free publicity,' each time the bloggers wrote an article about me and what I was doing. http://www.fashionistasmile.com/2013/06/preshopp-can-you-imagine-world-without.html
 
-## Fast Learner:
+## Learning
 Having taught myself enough Python and Beautiful Soup to scrape websites and build my MVP, I then proceeded to self learn HTML, CSS and Bootstrap. In fact, the summer of 2016 was spent getting much acquainted with the exercises of Codecademy and the tutorials of Udemy. By September of that same year, I was very much fluent in those technologies and could confidently enter client competitions on Freelancer. I am proud to say that I won the very first competition I entered on Freelancer! My client Sweetbelly, http://sweetbelly.de/, is a German Couterier who wanted a classy and minimal website that would showcase their very expensive creations. I created the site from scratch, using HTML, CSS, Bootstrap and PHP for the contact form.
 
 # Educational Background
