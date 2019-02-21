@@ -11,7 +11,7 @@ In 2012, being ever so inquisitive and daring, I decided to take a giant leap of
 Determined to capitalise on the buzz which was generating around my concept, I made yet another giant leap -- to extend my holiday from 2 weeks to 3 months and launched my startup in San Francisco. At the time of running my startup, it quickly became clear that my inability to code would impact the delivery of my product, therefore to mitigate against such an event, I began to teach myself to code. I learned enough of Python to create an MVP. The product -- a style aggregator -- proved very popular amongst fashion bloggers and added to the already growing buzz around my concept, but this time on social media. From this moment onwards, I became incredibly fascinated with computer programming.
 
 
-## Projects
+# Projects
 
 | Project | Description | Technologies |
 | :---         |     :---      |          :--- |
@@ -41,7 +41,7 @@ During the time I was running my tech startup, I quickly became very familiar wi
 ## Fast Learner:
 Having taught myself enough Python and Beautiful Soup to scrape websites and build my MVP, I then proceeded to self learn HTML, CSS and Bootstrap. In fact, the summer of 2016 was spent getting much acquainted with the exercises of Codecademy and the tutorials of Udemy. By September of that same year, I was very much fluent in those technologies and could confidently enter client competitions on Freelancer. I am proud to say that I won the very first competition I entered on Freelancer! My client Sweetbelly, http://sweetbelly.de/, is a German Couterier who wanted a classy and minimal website that would showcase their very expensive creations. I created the site from scratch, using HTML, CSS, Bootstrap and PHP for the contact form.
 
-## Educational Background
+# Educational Background
 
 Makers Academy (1st October 2018 to 1st Febuary 2019)
 
@@ -67,7 +67,7 @@ University of Greenwich (September 2003 to December 2007)
 * Architecture
 * Part I
 
-## Employment + Work Background
+# Employment + Work Background
 
 * Architectural Designer -- Paul Davies + Partners (September 2007 to June 2008)
 * Architectural Designer -- Bell Associate (September 2008 to March 2009)   
@@ -77,7 +77,7 @@ University of Greenwich (September 2003 to December 2007)
 * Freelancing + Travelling (2014)
 * Full time student (September 2015 - July 2018)
 
-## When I am not coding, you are likely to find me...
+# When I am not coding, you are likely to find me...
 
 * Reading
 * Drawing
