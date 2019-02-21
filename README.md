@@ -10,7 +10,7 @@ In 2012, being ever so inquisitive and daring, I decided to take a giant leap of
 
 Determined to capitalise on the buzz which was generating around my concept, I made yet another giant leap -- to extend my holiday from 2 weeks to 3 months and launched my startup in San Francisco. At the time of running my startup, it quickly became clear that my inability to code would impact the delivery of my product, therefore to mitigate against such an event, I began to teach myself to code. I learned enough of Python to create an MVP. The product -- a style aggregator -- proved very popular amongst fashion bloggers and added to the already growing buzz around my concept, but this time on social media. From this moment onwards, I became incredibly fascinated with computer programming.
 
-# Tech Skills: Ruby, Ruby on Rails, RSpec, Cypress, HTML, CSS, Bootstrap
+## Tech Skills: Ruby, Ruby on Rails, RSpec, Cypress, HTML, CSS, Bootstrap
 
 | Project | Description | Technologies |
 | :---         |     :---:      |          ---: |
