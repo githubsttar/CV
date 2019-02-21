@@ -19,7 +19,9 @@ Determined to capitalise on the buzz which was generating around my concept, I m
 | Bank Test: https://github.com/githubsttar/BankTechTest   | This simple IRB application allows users to make deposits and withdrawals and then print their balance statement. Please feel free to download and experiment, the instructions are fully detailed in the README.     | Ruby, Pry Gem   |
 
 
-## Tech Skills
+# Skills
+
+## Tech
 * Ruby 
 * Ruby on Rails 
 * RSpec 
@@ -27,6 +29,7 @@ Determined to capitalise on the buzz which was generating around my concept, I m
 * HTML 
 * CSS 
 * Bootstrap
+* Domain Modelling
 
 
 ## Leadership
