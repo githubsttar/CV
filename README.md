@@ -20,7 +20,7 @@ Determined to capitalise on the buzz which was generating around my concept, I m
 
 
 
-### Tech Skills: Ruby, Ruby on Rails, RSpec, Cypress, HTML, CSS, Bootstrap
+#### Tech Skills: Ruby, Ruby on Rails, RSpec, Cypress, HTML, CSS, Bootstrap
 
 
 ## Leadership
