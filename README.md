@@ -1,16 +1,21 @@
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
 ## Pleasure to meet you...
 
 # Who I Am
 
-Ijeoma Nelson, a happy go-lucky junior software engineer with a creative spirit. In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming an architect (and against the advice of my dean of school), in favour of pursing my dreams in tech. I headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup competition and won first prize! This gave me a great platform and afforded me the unique opportunity to meet with some of the Valley's most notorious (sorry! no name dropping) VCS and tech founders.
+Ijeoma Nelson, a happy-go-lucky junior software engineer with a creative spirit. I am looking for a company that values innovative thinking, ideas, hands-on problem-solving in a collaborative environment. The ideal company is where I can strengthen my programming knowledge whilst be able to constantly learn new technologies and new ways of problem-solving.
 
-Determined to capitalise on the small buzz which was generating around my concept, I made yet another giant leap -- to extend my holiday from 2 weeks to 3 months and launched my startup in San Francisco. At the time of running my startup, it quickly became clear that my inability to code would impact the delivery of my product, therefore to mitigate against such an event, I embarked upon learning how to code. I learned enough of Python to do some damage and by damage I mean the ability to quickly release a VMVP -- Very Minimum Viable Product. The product -- a style aggregator -- proved very popular amongst fashion bloggers and once again generated some more buzz, but this time on social media. From this moment onwards, I became incredibly fascinated with the idea of building my own products.
+# A Bit About Me
 
-I found it especially liberating to be able to take a project from conception to realisation and this feeling of liberation fueled my curiosity for web technologies. As an insatiable learner, I taught myself HTML, CSS, Bootstrap and Wordpress Styling and thereby pivoting my startup to a career in tech, even to the extent of winning the first web design and development contest I entered. I built a fully responsive website completely from scratch for the German coutrier, Sweetbelly-de. Both teachers and colleagues alike often commend the uniqueness of my creative mind, often remarking on how they like 'the way I think.' Software engineering perfectly compliments my creative and artistic talents and for this reason, I am searching for a place where creativity and experimentation is encouraged -- an environment that sees its value in tomorrow's world.
+In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming an architect (against the advice of my dean of school), in favour of pursuing my dreams in tech. I headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup competition and won first prize! This gave me a great platform and afforded me the unique opportunity to meet with some of the Valley's most notorious (sorry! no name dropping) VCS and tech founders.
 
-# Some of the things I'm good at...
+Determined to capitalise on the buzz which was generating around my concept, I made yet another giant leap -- to extend my holiday from 2 weeks to 3 months and launched my startup in San Francisco. At the time of running my startup, it quickly became clear that my inability to code would impact the delivery of my product, therefore to mitigate against such an event, I began to teach myself to code. I learned enough of Python to create an MVP. The product -- a style aggregator -- proved very popular amongst fashion bloggers and added to the already growing buzz around my concept, but this time on social media. From this moment onwards, I became incredibly fascinated with computer programming.
+
+# Tech Skills: Ruby, Ruby on Rails, RSpec, Cypress, HTML, CSS, Bootstrap
+
+| Project | Description | Technologies |
+| :---         |     :---:      |          ---: |
+| http://sweetbelly.de/   | A website built from scratch for a German women's couturier for A-List celebrities.     | HTML, CSS, Bootstrap and PHP for the contact form    |
+| git diff     | git diff       | git diff      |
 
 ## Leadership
 
