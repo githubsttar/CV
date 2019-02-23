@@ -71,3 +71,8 @@ University of Greenwich (September 2003 to December 2007)
 * Startup Weekend Winner -- Silicon Valley (January 2012)
 * Fellowship winner of the Makers Academy (October Cohort 2018)
 
+| Award | Description | Organisation |
+| :---         |     :---       |     :---      |
+| Scholarship   | git status     | United Colors of Benetton (August 2009 - August 2010)    |
+| Startup Competition     | git diff       | Startup Weekend Silicon Valley (January 2012)      |
+| Tech Fellowship     | git diff       | Makers Academy (October Cohort 2018)      |
