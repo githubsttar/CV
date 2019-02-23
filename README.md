@@ -22,17 +22,6 @@ Having realised that my lack of programming skills would impact the delivery of 
 
 # Skills
 
-## Tech
-* Ruby 
-* Ruby on Rails 
-* RSpec 
-* Cypress 
-* HTML 
-* CSS 
-* Bootstrap
-* Domain Modelling
-
-
 ## Leadership
 As president of the student union, I was the head liaison between the staff and student body. Incidentally, my presidentship began at a very tumultuous time in the life of the college, as the new constitution was being implemented to replace the old system. I led my team, through this difficult period and was able to establish a more solid foundation and governance of the student union. In addition to chairing bi-weekly meetings between the principal and my fellow students, I was in charge of communicating the voices and needs of the students to the appropriate members of staff. I began my presidentship with a disengaged and discouraged team who had lost their passion for their position, but through hard work and good leadership skills, I succeeded at transforming the student union into a thriving team of engaged and passionate members -- all the while maintaining a 1st / upper 2:1-grade point average. I also learned through this whole process, that I am a people-centred leader.
 
