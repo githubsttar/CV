@@ -31,6 +31,15 @@ Having taught myself enough Python and Beautiful Soup to scrape websites and bui
 ## Leadership
 As president of the student union, I was the head liaison between the staff and student body. Incidentally, my presidentship began at a very tumultuous time in the life of the college, as the new constitution was being implemented to replace the old system. I led my team, through this difficult period and was able to establish a more solid foundation and governance of the student union. I succeeded at transforming the student union into a thriving team of engaged and passionate members -- all the while maintaining a 1st / upper 2:1-grade point average. I also learned through this whole process, that I am a people-centred leader.
 
+# Awards
+
+| Award | Description | Organisation |
+| :---         |     :---       |     :---      |
+| Scholarship   | I spent a year in the interactive department of the global fashion brand, United Colors of Benetton. Stationed at their headquaters in the Veneto regiion of Italy, I worked on web content creation for their growing community of fans and casting directing for one of their most notorious ad campaigns, 'it's my time.'  | United Colors of Benetton (August 2009 - August 2010)    |
+| Startup Competition     | I won the tech startup competition in the epi-center of the world's tech industry. The judgeing panel who consisted of notorious tech enterprenuers, investors and insiders, choose my concept for it's innovation and marketability.   | Startup Weekend Silicon Valley (January 2012)      |
+| Tech Fellowship     | As one of the world's most notorious tech bootcamps, it was a great honour to be a recipient of the Makers Academy fellowship program. | Makers Academy (October Cohort 2018)      |
+
+
 # Educational Background
 
 Makers Academy (1st October 2018 to 1st Febuary 2019)
@@ -65,10 +74,3 @@ University of Greenwich (September 2003 to December 2007)
 * Freelancing (2014)
 * Full time student (September 2015 - July 2018)
 
-# Awards
-
-| Award | Description | Organisation |
-| :---         |     :---       |     :---      |
-| Scholarship   | I spent a year in the interactive department of the global fashion brand, United Colors of Benetton. Stationed at their headquaters in the Veneto regiion of Italy, I worked on web content creation for their growing community of fans and casting directing for one of their most notorious ad campaigns, 'it's my time.'  | United Colors of Benetton (August 2009 - August 2010)    |
-| Startup Competition     | I won the tech startup competition in the epi-center of the world's tech industry. The judgeing panel who consisted of notorious tech enterprenuers, investors and insiders, choose my concept for it's innovation and marketability.   | Startup Weekend Silicon Valley (January 2012)      |
-| Tech Fellowship     | As one of the world's most notorious tech bootcamps, it was a great honour to be a recipient of the Makers Academy fellowship program. | Makers Academy (October Cohort 2018)      |
