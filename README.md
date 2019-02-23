@@ -61,16 +61,13 @@ University of Greenwich (September 2003 to December 2007)
 
 * Architectural Designer -- Paul Davies + Partners (September 2007 to June 2008)
 * Architectural Designer -- Bell Associate (September 2008 to March 2009)   
-* Scholarship winner for Fashion & Tech division -- United Colors of Benetton (August 2009 - August 2010)
-* Startup Weekend Winner -- Silicon Valley (January 2012)
 * Founder of Preshopp (January 2012 - February 2014)
 * Freelancing (2014)
 * Full time student (September 2015 - July 2018)
 
-# When I am not coding, you are likely to find me...
+# Awards
 
-* Reading
-* Drawing
-* Watercolour Painting
-* Crocheting
-* Baking
+* Scholarship winner for Fashion & Tech division -- United Colors of Benetton (August 2009 - August 2010)
+* Startup Weekend Winner -- Silicon Valley (January 2012)
+* Fellowship winner of the Makers Academy (October Cohort 2018)
+
