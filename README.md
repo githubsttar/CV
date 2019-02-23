@@ -8,7 +8,7 @@ Ijeoma Nelson, a happy-go-lucky junior software engineer with a creative spirit.
 
 In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming an architect, in favour of pursuing my dreams in tech. I headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup competition and won first prize! This gave me a great platform and afforded me the unique opportunity to meet with some of the Valley's most notorious (sorry! no name dropping) VCS and tech founders.
 
-Having realised that my inability to code would impact the delivery of my product, I began to teach myself to code. I learned enough of Python to create an MVP. The product -- a style aggregator utillising retailer APIs -- proved very popular amongst fashion bloggers, adding to the already growing buzz around my concept, http://www.fashionistasmile.com/2013/06/preshopp-can-you-imagine-world-without.html. From this moment onwards, I became incredibly fascinated with computer programming. As a junior dev, I am interested in large organisations because they have an established infactstruture which provides a great platform for me to do what I do best -- deliver innovative ideas using cutting-edge technology.
+Having realised that my lack of programming skills would impact the delivery of my product, I began to teach myself to code. I learned enough of Python to create an MVP. The product -- a style aggregator utillising retailer APIs -- proved very popular amongst fashion bloggers, adding to the already growing buzz around my concept, http://www.fashionistasmile.com/2013/06/preshopp-can-you-imagine-world-without.html. From this moment onwards, I became incredibly fascinated with computer programming and as a junior dev, I am interested in joining large organisations because they have an established infactstruture which provides a great platform for me to do what I do best -- deliver innovative ideas using cutting-edge technology.
 
 
 # Projects
@@ -16,7 +16,8 @@ Having realised that my inability to code would impact the delivery of my produc
 | Project | Description | Technologies |
 | :---         |     :---      |          :--- |
 | Sweetbelly: http://sweetbelly.de/   | A website built from scratch for a German women's couturier for A-List celebrities.     | HTML, CSS, Bootstrap and PHP for the contact form    |
-| Bank Test: https://github.com/githubsttar/BankTechTest   | This simple IRB application allows users to make deposits and withdrawals and then print their balance statement. Please feel free to download and experiment, the instructions are fully detailed in the README.     | Ruby, Pry Gem   |
+| Bank Test: https://github.com/githubsttar/BankTechTest   | This simple IRB application allows users to make deposits and withdrawals and then print their balance statement. Please feel free to download and experiment, the instructions are fully detailed in the README.     | Ruby, RSpec, Pry Gem   |
+| Find My Pet: https://pet-hub.herokuapp.com/  | Find My Pet is a community of pet lovers where people can report or find missing pets. We taught ourselves how to split the architectures of the front and backend during development and then reconnect them on Heroku.  | Ruby on Rails API for the backend, React and Reactstrap for the Frontend, Base 64 for the image upload functionality. Testing was done with Cypress  |
 
 
 # Skills
