@@ -22,14 +22,14 @@ Having realised that my lack of programming skills would impact the delivery of 
 
 # Skills
 
-## Leadership
-As president of the student union, I was the head liaison between the staff and student body. Incidentally, my presidentship began at a very tumultuous time in the life of the college, as the new constitution was being implemented to replace the old system. I led my team, through this difficult period and was able to establish a more solid foundation and governance of the student union. In addition to chairing bi-weekly meetings between the principal and my fellow students, I was in charge of communicating the voices and needs of the students to the appropriate members of staff. I began my presidentship with a disengaged and discouraged team who had lost their passion for their position, but through hard work and good leadership skills, I succeeded at transforming the student union into a thriving team of engaged and passionate members -- all the while maintaining a 1st / upper 2:1-grade point average. I also learned through this whole process, that I am a people-centred leader.
-
 ## Communication
 During the time I was running my tech startup, I quickly became very familiar with some of the most notorious fashion bloggers and influencers around the world. Though unknown to me at the time that my development process was very agile, my excellent communication skills with the online community of fashion influencers, allowed me to implement the right features in my application whilst getting 'free publicity,' each time the bloggers wrote an article about me and what I was doing. http://www.fashionistasmile.com/2013/06/preshopp-can-you-imagine-world-without.html
 
 ## Learning
 Having taught myself enough Python and Beautiful Soup to scrape websites and build my MVP, I then proceeded to self learn HTML, CSS and Bootstrap. In fact, the summer of 2016 was spent getting much acquainted with the exercises of Codecademy and the tutorials of Udemy. By September of that same year, I was very much fluent in those technologies and could confidently enter client competitions on Freelancer. I am proud to say that I won the very first competition I entered on Freelancer! My client Sweetbelly, http://sweetbelly.de/, is a German Couterier who wanted a classy and minimal website that would showcase their very expensive creations. I created the site from scratch, using HTML, CSS, Bootstrap and PHP for the contact form.
+
+## Leadership
+As president of the student union, I was the head liaison between the staff and student body. Incidentally, my presidentship began at a very tumultuous time in the life of the college, as the new constitution was being implemented to replace the old system. I led my team, through this difficult period and was able to establish a more solid foundation and governance of the student union. I succeeded at transforming the student union into a thriving team of engaged and passionate members -- all the while maintaining a 1st / upper 2:1-grade point average. I also learned through this whole process, that I am a people-centred leader.
 
 # Educational Background
 
