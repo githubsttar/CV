@@ -70,5 +70,5 @@ University of Greenwich (September 2003 to December 2007)
 | Award | Description | Organisation |
 | :---         |     :---       |     :---      |
 | Scholarship   | I spent a year in the interactive department of the global fashion brand, United Colors of Benetton. Stationed at their headquaters in the Veneto regiion of Italy, I worked on web content creation for their growing community of fans and casting directing for one of their most notorious ad campaigns, 'it's my time.'  | United Colors of Benetton (August 2009 - August 2010)    |
-| Startup Competition     | git diff       | Startup Weekend Silicon Valley (January 2012)      |
+| Startup Competition     | I won the tech startup competition in the epi-center of the world's tech industry. The judgeing panel who consisted of notorious tech enterprenuers, investors and insiders, choose my concept for it's innovation and marketability.   | Startup Weekend Silicon Valley (January 2012)      |
 | Tech Fellowship     | git diff       | Makers Academy (October Cohort 2018)      |
