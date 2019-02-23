@@ -2,13 +2,13 @@
 
 # Who I Am
 
-Ijeoma Nelson, a happy-go-lucky junior software engineer with a creative spirit. I am looking for a company that values innovative thinking, ideas, hands-on problem-solving in a collaborative environment. The ideal company is where I can strengthen my programming knowledge whilst be able to constantly learn new technologies and new ways of problem-solving.
+Ijeoma Nelson, a happy-go-lucky junior software engineer with a creative spirit. I am looking for a company that values innovative thinking, ideas, hands-on problem-solving in a collaborative environment. The ideal company is where I can strengthen my programming knowledge whilst being able to constantly learn new technologies and new ways of problem-solving.
 
 # A Bit About Me
 
-In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming an architect (against the advice of my dean of school), in favour of pursuing my dreams in tech. I headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup competition and won first prize! This gave me a great platform and afforded me the unique opportunity to meet with some of the Valley's most notorious (sorry! no name dropping) VCS and tech founders.
+In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming an architect, in favour of pursuing my dreams in tech. I headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup competition and won first prize! This gave me a great platform and afforded me the unique opportunity to meet with some of the Valley's most notorious (sorry! no name dropping) VCS and tech founders.
 
-Determined to capitalise on the buzz which was generating around my concept, I made yet another giant leap -- to extend my holiday from 2 weeks to 3 months and launched my startup in San Francisco. At the time of running my startup, it quickly became clear that my inability to code would impact the delivery of my product, therefore to mitigate against such an event, I began to teach myself to code. I learned enough of Python to create an MVP. The product -- a style aggregator -- proved very popular amongst fashion bloggers and added to the already growing buzz around my concept, but this time on social media. From this moment onwards, I became incredibly fascinated with computer programming.
+At the time of running my startup, it quickly became clear that my inability to code would impact the delivery of my product, therefore to mitigate against such an event, I began to teach myself to code. I learned enough of Python to create an MVP. The product -- a style aggregator -- proved very popular amongst fashion bloggers and added to the already growing buzz around my concept, http://www.fashionistasmile.com/2013/06/preshopp-can-you-imagine-world-without.html. From this moment onwards, I became incredibly fascinated with computer programming.
 
 
 # Projects
