@@ -73,4 +73,5 @@ University of Greenwich (September 2003 to December 2007)
 * Founder of Preshopp (January 2012 - February 2014)
 * Freelancing (2014)
 * Full time student (September 2015 - July 2018)
+* Makers Academy (October 2018 - Febuary 2019)
 
