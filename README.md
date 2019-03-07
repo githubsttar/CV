@@ -6,7 +6,7 @@ Ijeoma Nelson, a happy-go-lucky junior software engineer with a creative spirit.
 
 # A Bit About Me
 
-In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming an architect, in favour of pursuing my dreams in tech. I headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup competition and won first prize! This gave me a great platform and afforded me the unique opportunity to meet with some of the Valley's most notorious (sorry! no name dropping) VCS and tech founders.
+In 2012, being ever so inquisitive and daring, I decided to take a giant leap of faith and leave my secured road to becoming a structural architect, in favour of pursuing my dreams in tech. I headed to Silicon Valley for an 'entrepreneurial holiday.' Whilst there, I entered a Startup competition and won first prize! This gave me a great platform and afforded me the unique opportunity to meet with some of the Valley's most notorious (sorry! no name dropping) VCS and tech founders.
 
 In realising that my lack of programming skills would impact the delivery of my product, I began to teach myself to code. I learned enough of Python to create an MVP. The product -- a style aggregator utillising retailer APIs -- proved very popular amongst fashion bloggers, adding to the already growing buzz around my concept, http://www.fashionistasmile.com/2013/06/preshopp-can-you-imagine-world-without.html. From this moment onwards, I became incredibly fascinated with computer programming and as a junior dev, I am interested in joining large organisations because they have an established infactstruture which provides a great platform for me to do what I do best -- deliver innovative ideas using cutting-edge technology.
 
@@ -15,15 +15,15 @@ In realising that my lack of programming skills would impact the delivery of my 
 
 | Project | Description | Technologies |
 | :---         |     :---      |     :---    |
-| Sweetbelly: http://sweetbelly.de/   | A website built from scratch for a German couturier catering for A-List celebrity women.     | HTML, CSS, Bootstrap and PHP for the contact form  |
+| Sweetbelly: http://sweetbelly.de/   | A website built from scratch for a German couturier whose clientele includes A-List celebrities.     | HTML, CSS, Bootstrap and PHP for the contact form  |
 | Bank Test: https://github.com/githubsttar/BankTechTest  | This simple IRB application allows users to make deposits and withdrawals and then print their balance statement. Please feel free to download and experiment, the instructions are fully detailed in the README. | Ruby, RSpec, Pry Gem  |
-| Find My Pet: https://pet-hub.herokuapp.com/ | Find My Pet is a community of pet lovers where people can report or find missing pets. We taught ourselves how to split the architecture of the front and backend during development and then reconnect them on Heroku so that they become one application.  | Ruby on Rails API, React, Reactstrap, Base 64, Travis, Rubocop, Simplecov and Cypress  |
+| Find My Pet: https://pet-hub.herokuapp.com/ | Find My Pet is a community of pet lovers where people can report or find missing pets. We taught ourselves how to split the architecture of the front and backend during development and then reconnect them on Heroku so that they become one application.  | Ruby on Rails API, React, Reactstrap, Travis, Rubocop, Simplecov and Cypress  |
 
 
 # Skills
 
 ## Communication
-During the time I was running my tech startup, I quickly became very familiar with some of the most popular influencers and fashion bloggers around the world. Though the phrase 'agile development,' was unknown to me at time, my excellent communication skills with the online community of fashion enthusisats enabled me to implement the right features in my application. In addition to this, I gained free publicity each time the bloggers wrote about me and my startup.  http://www.fashionistasmile.com/2013/06/preshopp-can-you-imagine-world-without.html
+During the time I was running my tech startup, I quickly became very familiar with some of the most popular influencers and fashion bloggers around the world. Though the phrase 'agile development,' was unknown to me at the time, my excellent communication skills with the online community of fashion enthusisats enabled me to implement the right features in my application. In addition to this, I gained free publicity each time the bloggers wrote about me and my startup.  http://www.fashionistasmile.com/2013/06/preshopp-can-you-imagine-world-without.html
 
 ## Learning
 Having taught myself enough Python and Beautiful Soup to scrape websites and build my MVP, I then proceeded to self learn HTML, CSS and Bootstrap. In fact, the summer of 2016 was spent getting much acquainted with the exercises of Codecademy and the tutorials of Udemy. By September of that same year, I was very much fluent in those technologies and could confidently enter client competitions on Freelancer. I am proud to say that I won the very first competition I entered on Freelancer! My client Sweetbelly, http://sweetbelly.de/, is a German Couterier who wanted a classy and minimal website that would showcase their very expensive creations. I created the site from scratch, using HTML, CSS, Bootstrap and PHP for the contact form.
