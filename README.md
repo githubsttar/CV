@@ -71,6 +71,6 @@ University of Greenwich (September 2003 to December 2007)
 * Architectural Designer -- Paul Davies + Partners (September 2007 to June 2008) I worked on technical detailing of iconic buildings in London.
 * Architectural Designer -- Bell Associate (September 2008 to March 2009) I designed new buildings from scratch and collaborated with the local council to accquire planning permission for their subsequent build. 
 * Founder of Preshopp (January 2012 - February 2014) I used APIs from fashion retailers to build a product which aggregated fashion items and created a fresh online shopping experience.
-* Freelancing (2014) I was a UX consultant for a startup in Santa Barbara 
+* Freelancing (2014) I consulted for a startup in Santa Barbara. Starting from concept to completion, the I redesigned the user experience of the company's own internal web portal.
 * Makers Academy (October 2018 - Febuary 2019) In adition to being a student, I also volunteered to mentor two students from the junior cohort. After my graduation, I joined the coaching team for one month as an assistant coach.
 
