@@ -15,7 +15,7 @@ In realising that my lack of programming skills would impact the delivery of my 
 
 | Project | Description | Technologies |
 | :---         |     :---      |     :---    |
-| Sweetbelly: http://sweetbelly.de/   | A website built from scratch for a German women's couturier for A-List celebrities.     | HTML, CSS, Bootstrap and PHP for the contact form  |
+| Sweetbelly: http://sweetbelly.de/   | A website built from scratch for a German couturier catering for A-List celebrities.     | HTML, CSS, Bootstrap and PHP for the contact form  |
 | Bank Test: https://github.com/githubsttar/BankTechTest  | This simple IRB application allows users to make deposits and withdrawals and then print their balance statement. Please feel free to download and experiment, the instructions are fully detailed in the README. | Ruby, RSpec, Pry Gem  |
 | Find My Pet: https://pet-hub.herokuapp.com/ | Find My Pet is a community of pet lovers where people can report or find missing pets. We taught ourselves how to split the architecture of the front and backend during development and then reconnect them on Heroku so that they become one application.  | Ruby on Rails API, React, Reactstrap, Base 64, Travis, Rubocop, Simplecov and Cypress  |
 
